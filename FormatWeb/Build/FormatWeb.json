@@ -1,7 +1,7 @@
 {
 "companyName": "Croac",
-"productName": "TextBeat",
-"productVersion": "0.2",
+"productName": "TypeBeat",
+"productVersion": "0.1",
 "dataUrl": "FormatWeb.data.unityweb",
 "wasmCodeUrl": "FormatWeb.wasm.code.unityweb",
 "wasmFrameworkUrl": "FormatWeb.wasm.framework.unityweb",
